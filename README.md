@@ -16,7 +16,7 @@ test_no_anomalies3.csv,<br>
 test_weak_anomalies3.csv,<br>
 test_with_anomalies3.csv
 
-# График аномамалий
+# График аномалий
 ![График аномамалий](images/anomaly_detection_plot.png)
 
 # Вывод результатов
