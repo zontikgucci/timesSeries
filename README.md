@@ -1,7 +1,7 @@
 # Описание
 data-set взят с сайта Kaggle, название файла time_series.
 
-## Использование библеотек
+## Использование библиотек
 pandas, sklearn, joblib, darts, matplotlib, numpy
 
 ## Модели
